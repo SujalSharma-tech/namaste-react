@@ -1,0 +1,1817 @@
+{
+  "sections": {
+    "SECTION_SEARCH_RESULT": [
+      {
+        "type": "restaurant",
+        "info": {
+          "resId": 19704601,
+          "name": "Barista Diner",
+          "image": {
+            "url": "https://b.zmtcdn.com/data/pictures/1/19704601/4395634f97b62c06aeb9c09c0addf1fe_featured_v2.jpg",
+            "urlWithParams": "https://b.zmtcdn.com/data/pictures/1/19704601/4395634f97b62c06aeb9c09c0addf1fe_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+          },
+          "o2FeaturedImage": {
+            "url": "https://b.zmtcdn.com/data/pictures/chains/1/19704601/7012ba7aba6f55f4a23e56da972c7604_o2_featured_v2.jpg"
+          },
+          "rating": {
+            "has_fake_reviews": 0,
+            "aggregate_rating": "4.2",
+            "rating_text": "4.2",
+            "rating_subtitle": "Very Good",
+            "rating_color": "5BA829",
+            "votes": "209",
+            "subtext": "REVIEWS",
+            "is_new": false
+          },
+          "ratingNew": {
+            "newlyOpenedObj": null,
+            "suspiciousReviewObj": null,
+            "ratings": {
+              "DINING": {
+                "rating_type": "DINING",
+                "rating": "4.2",
+                "reviewCount": "129",
+                "reviewTextSmall": "129 Reviews",
+                "subtext": "129 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "4.2",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                  "type": "green",
+                  "tint": "700"
+                },
+                "newOnDining": false
+              },
+              "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "4.1",
+                "reviewCount": "80",
+                "reviewTextSmall": "80 Reviews",
+                "subtext": "80 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "4.1",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                  "type": "green",
+                  "tint": "700"
+                },
+                "newOnDelivery": false
+              }
+            }
+          },
+          "cft": {
+            "text": "₹700 for two"
+          },
+          "cfo": {
+            "text": "₹250 for one"
+          },
+          "locality": {
+            "name": "Sector 26, Chandigarh",
+            "address": "SCO 4, Sector 26, Chandigarh",
+            "localityUrl": "chandigarh/sector-26-chandigarh-restaurants"
+          },
+          "timing": {
+            "text": "Opens tomorrow at 9am",
+            "color": "#ab000d"
+          },
+          "cuisine": [
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/cafes/",
+              "name": "Cafe"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/coffee/",
+              "name": "Coffee"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/italian/",
+              "name": "Italian"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzNcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/mexican/",
+              "name": "Mexican"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/continental/",
+              "name": "Continental"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/pizza/",
+              "name": "Pizza"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/sandwich/",
+              "name": "Sandwich"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTk4XCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/salad/",
+              "name": "Salad"
+            }
+          ],
+          "should_ban_ugc": false,
+          "costText": {
+            "text": "₹700 for two"
+          }
+        },
+        "order": [],
+        "gold": {
+          "instant": 20,
+          "welcome_offer": false,
+          "gold_offer": true,
+          "text": "Flat",
+          "offerValue": "20% OFF",
+          "isGoldIcon": true
+        },
+        "takeaway": [],
+        "cardAction": {
+          "text": "",
+          "clickUrl": "/chandigarh/barista-diner-sector-26/info",
+          "clickActionDeeplink": ""
+        },
+        "distance": "2.9 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+          {
+            "table_name": "zsearch_events_log",
+            "payload": "{\"search_id\":\"92e9d311-9939-4112-8679-28f7813ae33a\",\"location_type\":\"delivery_cell\",\"location_id\":\"4111765484242731008\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19704601\",\"element_type\":\"listing\",\"rank\":46}",
+            "event_names": {
+              "tap": "{\"action\":\"tap\"}",
+              "impression": "{\"action\":\"impression\"}"
+            }
+          }
+        ],
+        "allCTA": [
+          {
+            "type": "booking_cta",
+            "text": "Book a Table",
+            "clickUrl": "/chandigarh/barista-diner-sector-26/book"
+          }
+        ],
+        "promoOffer": "",
+        "checkBulkOffers": false,
+        "bulkOffers": [],
+        "isDisabled": false,
+        "bottomContainers": []
+      },
+      {
+        "type": "restaurant",
+        "info": {
+          "resId": 20959066,
+          "name": "Refections Cafe",
+          "image": {
+            "url": "https://b.zmtcdn.com/data/pictures/6/20959066/2b185ed6f5dafaed4789a48259e8f400_featured_v2.jpg",
+            "urlWithParams": "https://b.zmtcdn.com/data/pictures/6/20959066/2b185ed6f5dafaed4789a48259e8f400_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+          },
+          "o2FeaturedImage": {
+            "url": "https://b.zmtcdn.com/data/pictures/6/20959066/6d654df5ed0bedea4fece130c5286b4c_o2_featured_v2.jpg"
+          },
+          "rating": {
+            "has_fake_reviews": 0,
+            "aggregate_rating": "3.5",
+            "rating_text": "3.5",
+            "rating_subtitle": "Good",
+            "rating_color": "9ACD32",
+            "votes": "41",
+            "subtext": "REVIEWS",
+            "is_new": false
+          },
+          "ratingNew": {
+            "newlyOpenedObj": null,
+            "suspiciousReviewObj": null,
+            "ratings": {
+              "DINING": {
+                "rating_type": "DINING",
+                "rating": "3.0",
+                "reviewCount": "22",
+                "reviewTextSmall": "22 Reviews",
+                "subtext": "22 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "3.0",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                  "type": "green",
+                  "tint": "500"
+                },
+                "newOnDining": false
+              },
+              "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "4.0",
+                "reviewCount": "19",
+                "reviewTextSmall": "19 Reviews",
+                "subtext": "19 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "4.0",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                  "type": "green",
+                  "tint": "700"
+                },
+                "newOnDelivery": false
+              }
+            }
+          },
+          "cft": {
+            "text": "₹1,500 for two"
+          },
+          "cfo": {
+            "text": "₹250 for one"
+          },
+          "locality": {
+            "name": "Sector 35, Chandigarh",
+            "address": "473 - 474, 1st Floor, Sector 35, Chandigarh",
+            "localityUrl": "chandigarh/sector-35-chandigarh-restaurants"
+          },
+          "timing": {
+            "text": "Opens tomorrow at 11am",
+            "color": "#ab000d"
+          },
+          "cuisine": [
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/cafes/",
+              "name": "Cafe"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/coffee/",
+              "name": "Coffee"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/sandwich/",
+              "name": "Sandwich"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/italian/",
+              "name": "Italian"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/pizza/",
+              "name": "Pizza"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/continental/",
+              "name": "Continental"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/desserts/",
+              "name": "Desserts"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/beverages/",
+              "name": "Beverages"
+            }
+          ],
+          "should_ban_ugc": false,
+          "costText": {
+            "text": "₹1,500 for two"
+          }
+        },
+        "order": [],
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+          "text": "",
+          "clickUrl": "/chandigarh/refections-cafe-sector-35/info",
+          "clickActionDeeplink": ""
+        },
+        "distance": "4 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+          {
+            "table_name": "zsearch_events_log",
+            "payload": "{\"search_id\":\"92e9d311-9939-4112-8679-28f7813ae33a\",\"location_type\":\"delivery_cell\",\"location_id\":\"4111765484242731008\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20959066\",\"element_type\":\"listing\",\"rank\":47}",
+            "event_names": {
+              "tap": "{\"action\":\"tap\"}",
+              "impression": "{\"action\":\"impression\"}"
+            }
+          }
+        ],
+        "allCTA": [
+          {
+            "type": "booking_cta",
+            "text": "Book a Table",
+            "clickUrl": "/chandigarh/refections-cafe-sector-35/book"
+          },
+          {
+            "type": "chain_cta",
+            "text": "View all outlets",
+            "clickUrl": "/chandigarh/restaurants/refections-cafe?subzone=12001&category=2"
+          }
+        ],
+        "promoOffer": "",
+        "checkBulkOffers": false,
+        "bulkOffers": [],
+        "isDisabled": false,
+        "bottomContainers": []
+      },
+      {
+        "type": "restaurant",
+        "info": {
+          "resId": 20832708,
+          "name": "Curves By Novotel",
+          "image": {
+            "url": "https://b.zmtcdn.com/data/pictures/8/20832708/d211c2b7563646e4e9fd59771eea44ef_featured_v2.jpg",
+            "urlWithParams": "https://b.zmtcdn.com/data/pictures/8/20832708/d211c2b7563646e4e9fd59771eea44ef_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+          },
+          "o2FeaturedImage": {
+            "url": false
+          },
+          "rating": {
+            "has_fake_reviews": 0,
+            "aggregate_rating": "0",
+            "rating_text": "-",
+            "rating_subtitle": "Not rated",
+            "rating_color": "CBCBCB",
+            "votes": "0",
+            "subtext": "REVIEW",
+            "is_new": false
+          },
+          "ratingNew": {
+            "newlyOpenedObj": null,
+            "suspiciousReviewObj": null,
+            "ratings": {
+              "DINING": {
+                "rating_type": "DINING",
+                "rating": "",
+                "reviewCount": "0",
+                "reviewTextSmall": "0 Reviews",
+                "subtext": "Does not offer Dining",
+                "color": "",
+                "ratingV2": "-",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                  "type": "grey",
+                  "tint": "500"
+                },
+                "newOnDining": false
+              },
+              "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "",
+                "reviewCount": "0",
+                "reviewTextSmall": "0 Reviews",
+                "subtext": "Does not offer Delivery",
+                "color": "",
+                "ratingV2": "-",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                  "type": "grey",
+                  "tint": "500"
+                },
+                "newOnDelivery": false
+              }
+            }
+          },
+          "cft": {
+            "text": "₹2,500 for two"
+          },
+          "cfo": {
+            "text": "₹250 for one"
+          },
+          "locality": {
+            "name": "Chandigarh Industrial Area, Chandigarh",
+            "address": "Plot 181, 3B, Industrial Area Phase I, Chandigarh Industrial Area, Chandigarh",
+            "localityUrl": "chandigarh/chandigarh-industrial-area-restaurants"
+          },
+          "timing": {
+            "text": "Closes in 2 minutes",
+            "color": "#ab000d"
+          },
+          "cuisine": [
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/beverages/",
+              "name": "Beverages"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTUwXCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/tex-mex/",
+              "name": "Tex-Mex"
+            }
+          ],
+          "should_ban_ugc": false,
+          "costText": {
+            "text": "₹2,500 for two"
+          }
+        },
+        "order": [],
+        "gold": {
+          "instant": 15,
+          "welcome_offer": false,
+          "gold_offer": true,
+          "text": "Flat",
+          "offerValue": "15% OFF",
+          "isGoldIcon": true
+        },
+        "takeaway": [],
+        "cardAction": {
+          "text": "",
+          "clickUrl": "/chandigarh/curves-by-novotel-chandigarh-industrial-area/info",
+          "clickActionDeeplink": ""
+        },
+        "distance": "354 m",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+          {
+            "table_name": "zsearch_events_log",
+            "payload": "{\"search_id\":\"92e9d311-9939-4112-8679-28f7813ae33a\",\"location_type\":\"delivery_cell\",\"location_id\":\"4111765484242731008\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20832708\",\"element_type\":\"listing\",\"rank\":48}",
+            "event_names": {
+              "tap": "{\"action\":\"tap\"}",
+              "impression": "{\"action\":\"impression\"}"
+            }
+          }
+        ],
+        "allCTA": [
+          {
+            "type": "booking_cta",
+            "text": "Book a Table",
+            "clickUrl": "/chandigarh/curves-by-novotel-chandigarh-industrial-area/book"
+          }
+        ],
+        "promoOffer": "",
+        "checkBulkOffers": false,
+        "bulkOffers": [],
+        "isDisabled": false,
+        "bottomContainers": []
+      },
+      {
+        "type": "restaurant",
+        "info": {
+          "resId": 19675531,
+          "name": "Mamagoto",
+          "image": {
+            "url": "https://b.zmtcdn.com/data/pictures/chains/1/19675531/3aa2079d1ded4a354058acf1084c7386_featured_v2.jpg",
+            "urlWithParams": "https://b.zmtcdn.com/data/pictures/chains/1/19675531/3aa2079d1ded4a354058acf1084c7386_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+          },
+          "o2FeaturedImage": {
+            "url": "https://b.zmtcdn.com/data/pictures/chains/1/19675531/01b7a97b6407736bb0560c6cbef0d994_o2_featured_v2.jpg"
+          },
+          "rating": {
+            "has_fake_reviews": 0,
+            "aggregate_rating": "4.3",
+            "rating_text": "4.3",
+            "rating_subtitle": "Very Good",
+            "rating_color": "5BA829",
+            "votes": "1,688",
+            "subtext": "REVIEW",
+            "is_new": false
+          },
+          "ratingNew": {
+            "newlyOpenedObj": null,
+            "suspiciousReviewObj": null,
+            "ratings": {
+              "DINING": {
+                "rating_type": "DINING",
+                "rating": "4.4",
+                "reviewCount": "238",
+                "reviewTextSmall": "238 Reviews",
+                "subtext": "238 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "4.4",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                  "type": "green",
+                  "tint": "700"
+                },
+                "newOnDining": false
+              },
+              "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "4.2",
+                "reviewCount": "1,450",
+                "reviewTextSmall": "1,450 Reviews",
+                "subtext": "1,450 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "4.2",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                  "type": "green",
+                  "tint": "700"
+                },
+                "newOnDelivery": false
+              }
+            }
+          },
+          "cft": {
+            "text": "₹1,800 for two"
+          },
+          "cfo": {
+            "text": "₹250 for one"
+          },
+          "locality": {
+            "name": "Elante Mall, Chandigarh Industrial Area, Chandigarh",
+            "address": "Shop 46, Plot 178, Courtyard, Elante Mall, Chandigarh Industrial Area, Chandigarh",
+            "localityUrl": "chandigarh/restaurants/in/elante-mall-chandigarh-industrial-area"
+          },
+          "timing": {
+            "text": "Opens tomorrow at 12noon",
+            "color": "#ab000d"
+          },
+          "cuisine": [
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/asian/",
+              "name": "Asian"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc3XCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/sushi/",
+              "name": "Sushi"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNjBcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/japanese/",
+              "name": "Japanese"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTVcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/thai/",
+              "name": "Thai"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTk4XCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/salad/",
+              "name": "Salad"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/desserts/",
+              "name": "Desserts"
+            }
+          ],
+          "should_ban_ugc": false,
+          "costText": {
+            "text": "₹1,800 for two"
+          }
+        },
+        "order": [],
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+          "text": "",
+          "clickUrl": "/chandigarh/mamagoto-chandigarh-industrial-area/info",
+          "clickActionDeeplink": ""
+        },
+        "distance": "686 m",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+          {
+            "table_name": "zsearch_events_log",
+            "payload": "{\"search_id\":\"92e9d311-9939-4112-8679-28f7813ae33a\",\"location_type\":\"delivery_cell\",\"location_id\":\"4111765484242731008\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19675531\",\"element_type\":\"listing\",\"rank\":49}",
+            "event_names": {
+              "tap": "{\"action\":\"tap\"}",
+              "impression": "{\"action\":\"impression\"}"
+            }
+          }
+        ],
+        "allCTA": [
+          {
+            "type": "booking_cta",
+            "text": "Book a Table",
+            "clickUrl": "/chandigarh/mamagoto-chandigarh-industrial-area/book"
+          }
+        ],
+        "promoOffer": "",
+        "checkBulkOffers": false,
+        "bulkOffers": [],
+        "isDisabled": false,
+        "bottomContainers": []
+      },
+      {
+        "type": "restaurant",
+        "info": {
+          "resId": 120014,
+          "name": "Barbeque Nation",
+          "image": {
+            "url": "https://b.zmtcdn.com/data/pictures/chains/4/120014/0fada51155b5fff789bf182ea730a0d0_featured_v2.jpg",
+            "urlWithParams": "https://b.zmtcdn.com/data/pictures/chains/4/120014/0fada51155b5fff789bf182ea730a0d0_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+          },
+          "o2FeaturedImage": {
+            "url": "https://b.zmtcdn.com/data/pictures/chains/4/120014/a9b023aacfd87c1074966fc4c4d31146_o2_featured_v2.jpg"
+          },
+          "rating": {
+            "has_fake_reviews": 0,
+            "aggregate_rating": "4.2",
+            "rating_text": "4.2",
+            "rating_subtitle": "Very Good",
+            "rating_color": "5BA829",
+            "votes": "5,223",
+            "subtext": "REVIEWS",
+            "is_new": false
+          },
+          "ratingNew": {
+            "newlyOpenedObj": null,
+            "suspiciousReviewObj": null,
+            "ratings": {
+              "DINING": {
+                "rating_type": "DINING",
+                "rating": "4.6",
+                "reviewCount": "2,608",
+                "reviewTextSmall": "2,608 Reviews",
+                "subtext": "2,608 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "4.6",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                  "type": "green",
+                  "tint": "800"
+                },
+                "newOnDining": false
+              },
+              "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "3.8",
+                "reviewCount": "2,615",
+                "reviewTextSmall": "2,615 Reviews",
+                "subtext": "2,615 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "3.8",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                  "type": "green",
+                  "tint": "600"
+                },
+                "newOnDelivery": false
+              }
+            }
+          },
+          "cft": {
+            "text": "₹1,900 for two"
+          },
+          "cfo": {
+            "text": "₹250 for one"
+          },
+          "locality": {
+            "name": "Sector 26, Chandigarh",
+            "address": "SCO 39, Madhya Marg, Near Green Market, Sector 26, Chandigarh",
+            "localityUrl": "chandigarh/sector-26-chandigarh-restaurants"
+          },
+          "timing": {
+            "text": "Opens tomorrow at 12noon",
+            "color": "#ab000d"
+          },
+          "cuisine": [
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/north-indian/",
+              "name": "North Indian"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTkzXCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/bbq/",
+              "name": "BBQ"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/biryani/",
+              "name": "Biryani"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc4XCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/kebab/",
+              "name": "Kebab"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/continental/",
+              "name": "Continental"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/chinese/",
+              "name": "Chinese"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/beverages/",
+              "name": "Beverages"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/desserts/",
+              "name": "Desserts"
+            }
+          ],
+          "should_ban_ugc": false,
+          "costText": {
+            "text": "₹1,900 for two"
+          }
+        },
+        "order": [],
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+          "text": "",
+          "clickUrl": "/chandigarh/barbeque-nation-sector-26/info",
+          "clickActionDeeplink": ""
+        },
+        "distance": "2.7 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+          {
+            "table_name": "zsearch_events_log",
+            "payload": "{\"search_id\":\"92e9d311-9939-4112-8679-28f7813ae33a\",\"location_type\":\"delivery_cell\",\"location_id\":\"4111765484242731008\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"120014\",\"element_type\":\"listing\",\"rank\":50}",
+            "event_names": {
+              "tap": "{\"action\":\"tap\"}",
+              "impression": "{\"action\":\"impression\"}"
+            }
+          }
+        ],
+        "allCTA": [
+          {
+            "type": "booking_cta",
+            "text": "Book a Table",
+            "clickUrl": "/chandigarh/barbeque-nation-sector-26/book"
+          },
+          {
+            "type": "chain_cta",
+            "text": "View all outlets",
+            "clickUrl": "/chandigarh/restaurants/barbeque-nation?subzone=12001&category=2"
+          }
+        ],
+        "promoOffer": "",
+        "checkBulkOffers": false,
+        "bulkOffers": [],
+        "isDisabled": false,
+        "bottomContainers": []
+      },
+      {
+        "type": "restaurant",
+        "info": {
+          "resId": 20153108,
+          "name": "XO - JW Marriott",
+          "image": {
+            "url": "https://b.zmtcdn.com/data/pictures/8/20153108/6a0011fecc1351844e72581456bc4f56_featured_v2.jpg",
+            "urlWithParams": "https://b.zmtcdn.com/data/pictures/8/20153108/6a0011fecc1351844e72581456bc4f56_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+          },
+          "o2FeaturedImage": {
+            "url": "https://b.zmtcdn.com/data/pictures/8/20153108/54a9b5b66e1f369d6da64b724ed9905a_o2_featured_v2.jpg"
+          },
+          "rating": {
+            "has_fake_reviews": 0,
+            "aggregate_rating": "4.5",
+            "rating_text": "4.5",
+            "rating_subtitle": "Excellent",
+            "rating_color": "3F7E00",
+            "votes": "83",
+            "subtext": "REVIEWS",
+            "is_new": false
+          },
+          "ratingNew": {
+            "newlyOpenedObj": null,
+            "suspiciousReviewObj": null,
+            "ratings": {
+              "DINING": {
+                "rating_type": "DINING",
+                "rating": "4.5",
+                "reviewCount": "83",
+                "reviewTextSmall": "83 Reviews",
+                "subtext": "83 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "4.5",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                  "type": "green",
+                  "tint": "800"
+                },
+                "newOnDining": false
+              },
+              "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "",
+                "reviewCount": "0",
+                "reviewTextSmall": "0 Reviews",
+                "subtext": "Does not offer Delivery",
+                "color": "",
+                "ratingV2": "-",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                  "type": "grey",
+                  "tint": "500"
+                },
+                "newOnDelivery": false
+              }
+            }
+          },
+          "cft": {
+            "text": "₹3,000 for two"
+          },
+          "cfo": {
+            "text": "₹250 for one"
+          },
+          "locality": {
+            "name": "JW Marriott, Sector 35 B, Chandigarh",
+            "address": "Plot 6, Dakshin Marg, Sector 35, Chandigarh",
+            "localityUrl": "chandigarh/restaurants/in/jw-marriott-chandigarh"
+          },
+          "timing": {
+            "text": "Opens tomorrow at 12:30pm",
+            "color": "#ab000d"
+          },
+          "cuisine": [
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/asian/",
+              "name": "Asian"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODNcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/sea-food/",
+              "name": "Seafood"
+            }
+          ],
+          "should_ban_ugc": false,
+          "costText": {
+            "text": "₹3,000 for two"
+          }
+        },
+        "order": [],
+        "gold": {
+          "instant": 25,
+          "welcome_offer": false,
+          "gold_offer": true,
+          "text": "Flat",
+          "offerValue": "25% OFF",
+          "isGoldIcon": true
+        },
+        "takeaway": [],
+        "cardAction": {
+          "text": "",
+          "clickUrl": "/chandigarh/xo-jw-marriott-sector-35/info",
+          "clickActionDeeplink": ""
+        },
+        "distance": "3.8 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+          {
+            "table_name": "zsearch_events_log",
+            "payload": "{\"search_id\":\"92e9d311-9939-4112-8679-28f7813ae33a\",\"location_type\":\"delivery_cell\",\"location_id\":\"4111765484242731008\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20153108\",\"element_type\":\"listing\",\"rank\":51}",
+            "event_names": {
+              "tap": "{\"action\":\"tap\"}",
+              "impression": "{\"action\":\"impression\"}"
+            }
+          }
+        ],
+        "allCTA": [
+          {
+            "type": "booking_cta",
+            "text": "Book a Table",
+            "clickUrl": "/chandigarh/xo-jw-marriott-sector-35/book"
+          }
+        ],
+        "promoOffer": "",
+        "checkBulkOffers": false,
+        "bulkOffers": [],
+        "isDisabled": false,
+        "bottomContainers": []
+      },
+      {
+        "type": "restaurant",
+        "info": {
+          "resId": 121552,
+          "name": "Brooklyn Central",
+          "image": {
+            "url": "https://b.zmtcdn.com/data/pictures/2/121552/f4126c9b81d636ccc24bf9505afd384c_featured_v2.jpg",
+            "urlWithParams": "https://b.zmtcdn.com/data/pictures/2/121552/f4126c9b81d636ccc24bf9505afd384c_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+          },
+          "o2FeaturedImage": {
+            "url": "https://b.zmtcdn.com/data/pictures/2/121552/4fe295ba602dda5dd9a4acf8e2821bb1_o2_featured_v2.jpg"
+          },
+          "rating": {
+            "has_fake_reviews": 0,
+            "aggregate_rating": "4.3",
+            "rating_text": "4.3",
+            "rating_subtitle": "Very Good",
+            "rating_color": "5BA829",
+            "votes": "2,192",
+            "subtext": "REVIEWS",
+            "is_new": false
+          },
+          "ratingNew": {
+            "newlyOpenedObj": null,
+            "suspiciousReviewObj": null,
+            "ratings": {
+              "DINING": {
+                "rating_type": "DINING",
+                "rating": "4.3",
+                "reviewCount": "1,525",
+                "reviewTextSmall": "1,525 Reviews",
+                "subtext": "1,525 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "4.3",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                  "type": "green",
+                  "tint": "700"
+                },
+                "newOnDining": false
+              },
+              "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "4.2",
+                "reviewCount": "667",
+                "reviewTextSmall": "667 Reviews",
+                "subtext": "667 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "4.2",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                  "type": "green",
+                  "tint": "700"
+                },
+                "newOnDelivery": false
+              }
+            }
+          },
+          "cft": {
+            "text": "₹1,600 for two"
+          },
+          "cfo": {
+            "text": "₹250 for one"
+          },
+          "locality": {
+            "name": "Elante Mall, Chandigarh Industrial Area, Chandigarh",
+            "address": "Unit 309-A, 3rd Floor, Plot 178-178-A, Elante Mall, Phase 1, Chandigarh Industrial Area, Chandigarh",
+            "localityUrl": "chandigarh/restaurants/in/elante-mall-chandigarh-industrial-area"
+          },
+          "timing": {
+            "text": "Opens tomorrow at 11am",
+            "color": "#ab000d"
+          },
+          "cuisine": [
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/cafes/",
+              "name": "Cafe"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NlwiXX0iXQ%3D%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/shake/",
+              "name": "Shake"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/beverages/",
+              "name": "Beverages"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMVwiXX0iXQ%3D%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/american/",
+              "name": "American"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/continental/",
+              "name": "Continental"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/pizza/",
+              "name": "Pizza"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY4XCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/burger/",
+              "name": "Burger"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjI3XCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/bar-food/",
+              "name": "Bar Food"
+            }
+          ],
+          "should_ban_ugc": false,
+          "costText": {
+            "text": "₹1,600 for two"
+          }
+        },
+        "order": [],
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+          "text": "",
+          "clickUrl": "/chandigarh/brooklyn-central-chandigarh-industrial-area/info",
+          "clickActionDeeplink": ""
+        },
+        "distance": "551 m",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+          {
+            "table_name": "zsearch_events_log",
+            "payload": "{\"search_id\":\"92e9d311-9939-4112-8679-28f7813ae33a\",\"location_type\":\"delivery_cell\",\"location_id\":\"4111765484242731008\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"121552\",\"element_type\":\"listing\",\"rank\":52}",
+            "event_names": {
+              "tap": "{\"action\":\"tap\"}",
+              "impression": "{\"action\":\"impression\"}"
+            }
+          }
+        ],
+        "allCTA": [
+          {
+            "type": "booking_cta",
+            "text": "Book a Table",
+            "clickUrl": "/chandigarh/brooklyn-central-chandigarh-industrial-area/book"
+          },
+          {
+            "type": "chain_cta",
+            "text": "View all outlets",
+            "clickUrl": "/chandigarh/restaurants/brooklyn-central?subzone=12001&category=2"
+          }
+        ],
+        "promoOffer": "",
+        "checkBulkOffers": false,
+        "bulkOffers": [],
+        "isDisabled": false,
+        "bottomContainers": []
+      },
+      {
+        "type": "restaurant",
+        "info": {
+          "resId": 20400587,
+          "name": "Cafe Olio",
+          "image": {
+            "url": "https://b.zmtcdn.com/data/pictures/7/20400587/f32987765296f38f7b2244704e12b4f0_featured_v2.jpg",
+            "urlWithParams": "https://b.zmtcdn.com/data/pictures/7/20400587/f32987765296f38f7b2244704e12b4f0_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+          },
+          "o2FeaturedImage": {
+            "url": false
+          },
+          "rating": {
+            "has_fake_reviews": 0,
+            "aggregate_rating": "3.7",
+            "rating_text": "3.7",
+            "rating_subtitle": "Good",
+            "rating_color": "9ACD32",
+            "votes": "30",
+            "subtext": "REVIEWS",
+            "is_new": false
+          },
+          "ratingNew": {
+            "newlyOpenedObj": null,
+            "suspiciousReviewObj": null,
+            "ratings": {
+              "DINING": {
+                "rating_type": "DINING",
+                "rating": "3.7",
+                "reviewCount": "30",
+                "reviewTextSmall": "30 Reviews",
+                "subtext": "30 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "3.7",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                  "type": "green",
+                  "tint": "600"
+                },
+                "newOnDining": false
+              },
+              "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "",
+                "reviewCount": "0",
+                "reviewTextSmall": "0 Reviews",
+                "subtext": "Does not offer Delivery",
+                "color": "",
+                "ratingV2": "-",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                  "type": "grey",
+                  "tint": "500"
+                },
+                "newOnDelivery": false
+              }
+            }
+          },
+          "cft": {
+            "text": "₹1,400 for two"
+          },
+          "cfo": {
+            "text": "₹250 for one"
+          },
+          "locality": {
+            "name": "Sector 35, Chandigarh",
+            "address": "SCO 329D, Sector 35, Chandigarh",
+            "localityUrl": "chandigarh/sector-35-chandigarh-restaurants"
+          },
+          "timing": {
+            "text": "Opens tomorrow at 9am",
+            "color": "#ab000d"
+          },
+          "cuisine": [
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/cafes/",
+              "name": "Cafe"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzhcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/european/",
+              "name": "European"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/fast-food/",
+              "name": "Fast Food"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/street-food/",
+              "name": "Street Food"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/pizza/",
+              "name": "Pizza"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/desserts/",
+              "name": "Desserts"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/beverages/",
+              "name": "Beverages"
+            }
+          ],
+          "should_ban_ugc": false,
+          "costText": {
+            "text": "₹1,400 for two"
+          }
+        },
+        "order": [],
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+          "text": "",
+          "clickUrl": "/chandigarh/cafe-olio-sector-35/info",
+          "clickActionDeeplink": ""
+        },
+        "distance": "3.8 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+          {
+            "table_name": "zsearch_events_log",
+            "payload": "{\"search_id\":\"92e9d311-9939-4112-8679-28f7813ae33a\",\"location_type\":\"delivery_cell\",\"location_id\":\"4111765484242731008\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20400587\",\"element_type\":\"listing\",\"rank\":53}",
+            "event_names": {
+              "tap": "{\"action\":\"tap\"}",
+              "impression": "{\"action\":\"impression\"}"
+            }
+          }
+        ],
+        "allCTA": [
+          {
+            "type": "booking_cta",
+            "text": "Book a Table",
+            "clickUrl": "/chandigarh/cafe-olio-sector-35/book"
+          }
+        ],
+        "promoOffer": "",
+        "checkBulkOffers": false,
+        "bulkOffers": [],
+        "isDisabled": false,
+        "bottomContainers": []
+      },
+      {
+        "type": "restaurant",
+        "info": {
+          "resId": 18604104,
+          "name": "City Cabana",
+          "image": {
+            "url": "https://b.zmtcdn.com/data/pictures/4/18604104/6dfd62438ba98d515aae564e1519fa4c_featured_v2.jpg",
+            "urlWithParams": "https://b.zmtcdn.com/data/pictures/4/18604104/6dfd62438ba98d515aae564e1519fa4c_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+          },
+          "o2FeaturedImage": {
+            "url": "https://b.zmtcdn.com/data/pictures/4/18604104/4e01eb08648d03ffa3d904edbd277e24_o2_featured_v2.jpg"
+          },
+          "rating": {
+            "has_fake_reviews": 0,
+            "aggregate_rating": "4.2",
+            "rating_text": "4.2",
+            "rating_subtitle": "Very Good",
+            "rating_color": "5BA829",
+            "votes": "1,148",
+            "subtext": "REVIEW",
+            "is_new": false
+          },
+          "ratingNew": {
+            "newlyOpenedObj": null,
+            "suspiciousReviewObj": null,
+            "ratings": {
+              "DINING": {
+                "rating_type": "DINING",
+                "rating": "4.3",
+                "reviewCount": "582",
+                "reviewTextSmall": "582 Reviews",
+                "subtext": "582 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "4.3",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                  "type": "green",
+                  "tint": "700"
+                },
+                "newOnDining": false
+              },
+              "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "4.0",
+                "reviewCount": "566",
+                "reviewTextSmall": "566 Reviews",
+                "subtext": "566 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "4.0",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                  "type": "green",
+                  "tint": "700"
+                },
+                "newOnDelivery": false
+              }
+            }
+          },
+          "cft": {
+            "text": "₹1,600 for two"
+          },
+          "cfo": {
+            "text": "₹250 for one"
+          },
+          "locality": {
+            "name": "Hotel City Heart Premium, Sector 17, Chandigarh",
+            "address": "SCO 202-204, Near Andhra Bank Building, Sector 17, Chandigarh",
+            "localityUrl": "chandigarh/restaurants/in/hotel-city-heart-premium-sector-17-chandigarh"
+          },
+          "timing": {
+            "text": "Opens tomorrow at 11am",
+            "color": "#ab000d"
+          },
+          "cuisine": [
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/north-indian/",
+              "name": "North Indian"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/mughlai/",
+              "name": "Mughlai"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/chinese/",
+              "name": "Chinese"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/continental/",
+              "name": "Continental"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/italian/",
+              "name": "Italian"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/fast-food/",
+              "name": "Fast Food"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/desserts/",
+              "name": "Desserts"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/beverages/",
+              "name": "Beverages"
+            }
+          ],
+          "should_ban_ugc": false,
+          "costText": {
+            "text": "₹1,600 for two"
+          }
+        },
+        "order": [],
+        "gold": {
+          "instant": 25,
+          "welcome_offer": false,
+          "gold_offer": true,
+          "text": "Flat",
+          "offerValue": "25% OFF",
+          "isGoldIcon": true
+        },
+        "takeaway": [],
+        "cardAction": {
+          "text": "",
+          "clickUrl": "/chandigarh/city-cabana-sector-17/info",
+          "clickActionDeeplink": ""
+        },
+        "distance": "4.1 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+          {
+            "table_name": "zsearch_events_log",
+            "payload": "{\"search_id\":\"92e9d311-9939-4112-8679-28f7813ae33a\",\"location_type\":\"delivery_cell\",\"location_id\":\"4111765484242731008\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"18604104\",\"element_type\":\"listing\",\"rank\":54}",
+            "event_names": {
+              "tap": "{\"action\":\"tap\"}",
+              "impression": "{\"action\":\"impression\"}"
+            }
+          }
+        ],
+        "allCTA": [
+          {
+            "type": "booking_cta",
+            "text": "Book a Table",
+            "clickUrl": "/chandigarh/city-cabana-sector-17/book"
+          }
+        ],
+        "promoOffer": "",
+        "checkBulkOffers": false,
+        "bulkOffers": [],
+        "isDisabled": false,
+        "bottomContainers": []
+      },
+      {
+        "type": "restaurant",
+        "info": {
+          "resId": 123363,
+          "name": "Dastaan",
+          "image": {
+            "url": "https://b.zmtcdn.com/data/pictures/3/123363/4ad282808e1a58cb9ad34b464c4da307_featured_v2.jpg",
+            "urlWithParams": "https://b.zmtcdn.com/data/pictures/3/123363/4ad282808e1a58cb9ad34b464c4da307_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+          },
+          "o2FeaturedImage": {
+            "url": "https://b.zmtcdn.com/data/pictures/3/123363/2363b030c04d66a527b4c9202b05c1eb_o2_featured_v2.jpg"
+          },
+          "rating": {
+            "has_fake_reviews": 0,
+            "aggregate_rating": "4.5",
+            "rating_text": "4.5",
+            "rating_subtitle": "Excellent",
+            "rating_color": "3F7E00",
+            "votes": "1,623",
+            "subtext": "REVIEW",
+            "is_new": false
+          },
+          "ratingNew": {
+            "newlyOpenedObj": null,
+            "suspiciousReviewObj": null,
+            "ratings": {
+              "DINING": {
+                "rating_type": "DINING",
+                "rating": "4.6",
+                "reviewCount": "1,130",
+                "reviewTextSmall": "1,130 Reviews",
+                "subtext": "1,130 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "4.6",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                  "type": "green",
+                  "tint": "800"
+                },
+                "newOnDining": false
+              },
+              "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "4.4",
+                "reviewCount": "493",
+                "reviewTextSmall": "493 Reviews",
+                "subtext": "493 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "4.4",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                  "type": "green",
+                  "tint": "700"
+                },
+                "newOnDelivery": false
+              }
+            }
+          },
+          "cft": {
+            "text": "₹1,900 for two"
+          },
+          "cfo": {
+            "text": "₹250 for one"
+          },
+          "locality": {
+            "name": "Sector 7, Chandigarh",
+            "address": "SCO 43, Near Madhya Marg, Sector 7, Chandigarh",
+            "localityUrl": "chandigarh/sector-7-chandigarh-restaurants"
+          },
+          "timing": {
+            "text": "Opens tomorrow at 11:30am",
+            "color": "#ab000d"
+          },
+          "cuisine": [
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/north-indian/",
+              "name": "North Indian"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/mughlai/",
+              "name": "Mughlai"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/biryani/",
+              "name": "Biryani"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/desserts/",
+              "name": "Desserts"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/coffee/",
+              "name": "Coffee"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/beverages/",
+              "name": "Beverages"
+            }
+          ],
+          "should_ban_ugc": false,
+          "costText": {
+            "text": "₹1,900 for two"
+          }
+        },
+        "order": [],
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+          "text": "",
+          "clickUrl": "/chandigarh/dastaan-sector-7/info",
+          "clickActionDeeplink": ""
+        },
+        "distance": "3.1 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+          {
+            "table_name": "zsearch_events_log",
+            "payload": "{\"search_id\":\"92e9d311-9939-4112-8679-28f7813ae33a\",\"location_type\":\"delivery_cell\",\"location_id\":\"4111765484242731008\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"123363\",\"element_type\":\"listing\",\"rank\":55}",
+            "event_names": {
+              "tap": "{\"action\":\"tap\"}",
+              "impression": "{\"action\":\"impression\"}"
+            }
+          }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": false,
+        "bulkOffers": [],
+        "isDisabled": false,
+        "bottomContainers": []
+      },
+      {
+        "type": "restaurant",
+        "info": {
+          "resId": 121175,
+          "name": "The Skylight Garden",
+          "image": {
+            "url": "https://b.zmtcdn.com/data/pictures/5/121175/32a451e861158dc32a6ca1fa65e8aa6f_featured_v2.jpg",
+            "urlWithParams": "https://b.zmtcdn.com/data/pictures/5/121175/32a451e861158dc32a6ca1fa65e8aa6f_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+          },
+          "o2FeaturedImage": {
+            "url": false
+          },
+          "rating": {
+            "has_fake_reviews": 0,
+            "aggregate_rating": "4.8",
+            "rating_text": "4.8",
+            "rating_subtitle": "Excellent",
+            "rating_color": "3F7E00",
+            "votes": "244",
+            "subtext": "REVIEWS",
+            "is_new": false
+          },
+          "ratingNew": {
+            "newlyOpenedObj": null,
+            "suspiciousReviewObj": null,
+            "ratings": {
+              "DINING": {
+                "rating_type": "DINING",
+                "rating": "4.8",
+                "reviewCount": "244",
+                "reviewTextSmall": "244 Reviews",
+                "subtext": "244 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "4.8",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                  "type": "green",
+                  "tint": "800"
+                },
+                "newOnDining": false
+              },
+              "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "",
+                "reviewCount": "0",
+                "reviewTextSmall": "0 Reviews",
+                "subtext": "Does not offer Delivery",
+                "color": "",
+                "ratingV2": "-",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                  "type": "grey",
+                  "tint": "500"
+                },
+                "newOnDelivery": false
+              }
+            }
+          },
+          "cft": {
+            "text": "₹2,000 for two"
+          },
+          "cfo": {
+            "text": "₹250 for one"
+          },
+          "locality": {
+            "name": "The Fern Residency, Chandigarh Industrial Area, Chandigarh",
+            "address": "The Fern Residency, 28/8, Phase 2, Chandigarh Industrial Area, Chandigarh",
+            "localityUrl": "chandigarh/restaurants/in/the-fern-residency-chandigarh-industrial-area-chandigarh"
+          },
+          "timing": {
+            "text": "Opens tomorrow at 11am",
+            "color": "#ab000d"
+          },
+          "cuisine": [
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTk4XCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/salad/",
+              "name": "Salad"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/italian/",
+              "name": "Italian"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/north-indian/",
+              "name": "North Indian"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/asian/",
+              "name": "Asian"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/beverages/",
+              "name": "Beverages"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/chinese/",
+              "name": "Chinese"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/mughlai/",
+              "name": "Mughlai"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNVwiXX0iXQ%3D%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/bakery/",
+              "name": "Bakery"
+            }
+          ],
+          "should_ban_ugc": false,
+          "costText": {
+            "text": "₹2,000 for two"
+          }
+        },
+        "order": [],
+        "gold": {
+          "instant": 20,
+          "welcome_offer": false,
+          "gold_offer": true,
+          "text": "Flat",
+          "offerValue": "20% OFF",
+          "isGoldIcon": true
+        },
+        "takeaway": [],
+        "cardAction": {
+          "text": "",
+          "clickUrl": "/chandigarh/the-skylight-garden-chandigarh-industrial-area/info",
+          "clickActionDeeplink": ""
+        },
+        "distance": "416 m",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+          {
+            "table_name": "zsearch_events_log",
+            "payload": "{\"search_id\":\"92e9d311-9939-4112-8679-28f7813ae33a\",\"location_type\":\"delivery_cell\",\"location_id\":\"4111765484242731008\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"121175\",\"element_type\":\"listing\",\"rank\":56}",
+            "event_names": {
+              "tap": "{\"action\":\"tap\"}",
+              "impression": "{\"action\":\"impression\"}"
+            }
+          }
+        ],
+        "allCTA": [
+          {
+            "type": "booking_cta",
+            "text": "Book a Table",
+            "clickUrl": "/chandigarh/the-skylight-garden-chandigarh-industrial-area/book"
+          }
+        ],
+        "promoOffer": "",
+        "checkBulkOffers": false,
+        "bulkOffers": [],
+        "isDisabled": false,
+        "bottomContainers": []
+      },
+      {
+        "type": "restaurant",
+        "info": {
+          "resId": 19099224,
+          "name": "Biryani Boxx",
+          "image": {
+            "url": "https://b.zmtcdn.com/data/pictures/chains/4/19099224/a3fd2fa76afa0d5c9ec362cf0d134151_featured_v2.jpg",
+            "urlWithParams": "https://b.zmtcdn.com/data/pictures/chains/4/19099224/a3fd2fa76afa0d5c9ec362cf0d134151_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+          },
+          "o2FeaturedImage": {
+            "url": "https://b.zmtcdn.com/data/pictures/chains/4/19099224/2111bf5b29889c3d02b16c80738d4f48_o2_featured_v2.jpg"
+          },
+          "rating": {
+            "has_fake_reviews": 0,
+            "aggregate_rating": "4.3",
+            "rating_text": "4.3",
+            "rating_subtitle": "Very Good",
+            "rating_color": "5BA829",
+            "votes": "1,948",
+            "subtext": "REVIEW",
+            "is_new": false
+          },
+          "ratingNew": {
+            "newlyOpenedObj": null,
+            "suspiciousReviewObj": null,
+            "ratings": {
+              "DINING": {
+                "rating_type": "DINING",
+                "rating": "4.2",
+                "reviewCount": "53",
+                "reviewTextSmall": "53 Reviews",
+                "subtext": "53 Dining Reviews",
+                "color": "#1C1C1C",
+                "ratingV2": "4.2",
+                "subtitle": "DINING",
+                "sideSubTitle": "Dining Ratings",
+                "bgColorV2": {
+                  "type": "green",
+                  "tint": "700"
+                },
+                "newOnDining": false
+              },
+              "DELIVERY": {
+                "rating_type": "DELIVERY",
+                "rating": "4.3",
+                "reviewCount": "1,895",
+                "reviewTextSmall": "1,895 Reviews",
+                "subtext": "1,895 Delivery Reviews",
+                "color": "#E23744",
+                "ratingV2": "4.3",
+                "subtitle": "DELIVERY",
+                "sideSubTitle": "Delivery Ratings",
+                "bgColorV2": {
+                  "type": "green",
+                  "tint": "700"
+                },
+                "newOnDelivery": false
+              }
+            }
+          },
+          "cft": {
+            "text": "₹400 for two"
+          },
+          "cfo": {
+            "text": "₹250 for one"
+          },
+          "locality": {
+            "name": "Chandigarh Industrial Area, Chandigarh",
+            "address": "Plot 102, Chandigarh Industrial Area, Chandigarh",
+            "localityUrl": "chandigarh/chandigarh-industrial-area-restaurants"
+          },
+          "timing": {
+            "text": "",
+            "color": ""
+          },
+          "cuisine": [
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/biryani/",
+              "name": "Biryani"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+              "url": "https://www.zomato.com/chandigarh/restaurants/north-indian/",
+              "name": "North Indian"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTkzXCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/bbq/",
+              "name": "BBQ"
+            },
+            {
+              "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+              "url": "https://www.zomato.com/chandigarh/restaurants/desserts/",
+              "name": "Desserts"
+            }
+          ],
+          "should_ban_ugc": false,
+          "costText": {
+            "text": "₹400 for two"
+          }
+        },
+        "order": [],
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+          "text": "",
+          "clickUrl": "/chandigarh/biryani-boxx-chandigarh-industrial-area/info",
+          "clickActionDeeplink": ""
+        },
+        "distance": "1 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+          {
+            "table_name": "zsearch_events_log",
+            "payload": "{\"search_id\":\"92e9d311-9939-4112-8679-28f7813ae33a\",\"location_type\":\"delivery_cell\",\"location_id\":\"4111765484242731008\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19099224\",\"element_type\":\"listing\",\"rank\":57}",
+            "event_names": {
+              "tap": "{\"action\":\"tap\"}",
+              "impression": "{\"action\":\"impression\"}"
+            }
+          }
+        ],
+        "allCTA": [
+          {
+            "type": "chain_cta",
+            "text": "View all outlets",
+            "clickUrl": "/chandigarh/restaurants/biryani-boxx?subzone=12001&category=2"
+          }
+        ],
+        "promoOffer": "",
+        "checkBulkOffers": false,
+        "bulkOffers": [],
+        "isDisabled": false,
+        "bottomContainers": []
+      }
+    ]
+  }
+}

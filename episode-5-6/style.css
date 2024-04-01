@@ -1,0 +1,296 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.res-header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(226, 226, 231);
+    align-items: center;
+    padding: 0 30px;
+}
+
+.res-logo{
+    width: 100px;
+    border-radius: 40px;
+    overflow: hidden;
+}
+.res-logo > img{
+    width: 100%;
+    
+}
+
+.res-nav-items{
+    width: 50%;
+}
+.res-nav-items > ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+.res-nav-items > ul > li > a{
+    text-decoration: none;
+    color: black;
+}
+
+.res-nav-items > ul > li > a:hover{
+    color: green;
+}
+.res-nav-items > ul > li{
+    list-style-type: none;
+    font-size: 22px;
+}
+.res-body-content{
+    margin: 2px 20px;
+}
+.fontweight{
+    font-weight: bold;
+}
+.fontweightnormal{
+    font-weight: 600;
+}
+/* resaturant card */
+
+.res-card-template{
+    width: 250px;
+    height: 280px;
+    /* border: 1px solid; */
+    white-space: nowrap;
+    cursor: pointer;
+    margin: 15px;
+    transition: 0.2s;
+}
+
+.res-card-template:hover{
+    transform: scale(0.9);
+    z-index: 2;
+}
+
+.res-card-rating-time{
+    display: flex;
+    align-items: center;
+    width: 160px;
+}
+.delievertime{
+    margin-left: 10px;
+}
+.text-overflow{
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.res-card-info {
+    margin-left: 10px;
+}
+.res-card-resname{
+    margin-top: 10px;
+}
+.res-card-img{
+    height: 170px;
+    filter: drop-shadow(rgba(0, 0, 0, 0.1) 0px 2px 8px)
+}
+.res-card-img > img{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    object-fit: cover;
+}
+
+
+
+
+/* restaurant list*/
+
+.res-body-bar{
+    display: flex;
+    align-items: center;
+    gap: 5;
+}
+.res-top-rated{
+    padding: 6px 8px;
+    border-radius: 16px;
+    background-color: transparent;
+    outline: none;
+    border: 1px solid rgb(226, 226, 231);
+    box-shadow: rgba(2, 6, 12, 0.04) 0px 2px 12px;
+    cursor: pointer;
+}
+.res-searchbar{
+    display: flex;
+    width: 225px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.res-searchbar > input{
+    padding: 9px 8px;
+    border-radius: 12px;
+    background-color: transparent;
+    outline: none;
+    border: 1px solid rgb(226, 226, 231);
+    box-shadow: rgba(2, 6, 12, 0.04) 0px 2px 12px;
+    background-color: rgb(240, 240, 245);
+
+}
+.searchbtnlogo{
+    width: 40px;
+    height: 40px;
+    border: 1px solid rgb(226, 226, 231);
+    background-color: transparent;
+    border-radius: 23px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+
+}
+
+.searchbtnlogo > img{
+    width: 60%;
+}
+.searchbtnlogo:hover{
+    background-color: rgb(240, 240, 245);
+}
+.res-top-rated:hover{
+    background-color: rgb(240, 240, 245);
+}
+
+
+.res-restaurants{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.active-rating{
+    border: 1px solid orange;
+}
+
+
+
+/* Shimmer */
+
+.res-card-img{
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+}
+
+.shimmer-text{
+    background-color: gray;
+    width: 80%;
+    border-radius: 2px;
+    height: 15px;
+    margin-top: 10px;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+
+/* Restaurant Menu */
+.menu-item-img-body{
+    height: 163px;
+}
+
+.res-menu-page-body{
+    width: 800px;
+    margin: 0 auto;
+}
+
+.res-menu-category-container{
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-item-body{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.menu-item-img {
+    width: 163px;
+    height: 139px;
+}
+.menu-item-img > img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 16px;
+        filter: drop-shadow(rgba(0, 0, 0, 0.1) 0px 2px 8px)
+    
+}
+
+.menu-item-img-body{
+
+    position: relative;
+   
+}
+
+.menu-item-img-addtocart{
+    position: absolute;
+    bottom: -20%;
+    left: 48%;
+
+    transform: translate(-50%, -50%);
+    filter: drop-shadow(rgba(0, 0, 0, 0.1) 0px 2px 8px)
+}
+
+.menu-item-img-addtocart > button{
+
+    padding: 6px 38;
+    font-size: 16px;
+    color: green;
+    font-weight: 600;
+    border-radius: 12px;
+    outline: none;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: white;
+    cursor: pointer;
+}
+.menu-item-img-addtocart > button:hover{
+    background-color: rgb(240, 240, 245);
+}
+.veg-nonveg-img > img{
+    width: 20px;
+}
+
+.menu-item-name > h3{
+    font-weight: 500;
+}
+
+.menu-item-price > img{
+    width: 8px;
+}
+
+.menu-item-rating-star {
+    width: 25px;
+}
+
+.menu-item-rating-star > img{
+    width: 100%;
+}
+
+.menu-item-ratings > h5{
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.menu-item-info{
+    width: 520px;
+}
+
+
+.res-menu-border{
+    margin: 22px 0px;
+    background-color: black;
+    border-bottom: 0.5px solid #d3d3d3;
+    width: 100%;
+    height: 0.5px;
+}

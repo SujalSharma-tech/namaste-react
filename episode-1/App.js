@@ -17,7 +17,7 @@ const parent = React.createElement(
 );
 
 //*time consuming
-console.log(parent); //*parent is an o
+console.log(parent); //*parent is an object here not normal html element
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(parent);
