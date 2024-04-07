@@ -7,16 +7,35 @@ import ratingicon from "../images/rating.jpg";
 import { CDN_URL } from "../utils/constants";
 import { MENU_API } from "../utils/constants";
 import vegicon from "../images/vegicon.png";
+import MenuShimmer from "./MenuShimmer";
+
+const myfun = () => {
+  const data = document.getElementsByClassName("no-img");
+  for (let i = 0; i < data.length; i++) {
+    console.log(data[i].parentElement.parentElement);
+    data[i].parentElement.parentElement.classList.add("no-img-container");
+  }
+};
 
 const CategoryContainer = (item) => {
   return (
     <div className="res-menu-category-container">
-      <div className="res-menu-category">
-        <h2>
-          {item.title} ({item.itemList.length})
-        </h2>
-      </div>
-      <div className="res-menu-dropdown"> {">"} </div>
+      <button
+        onClick={() => {
+          {
+            document
+              .getElementsByClassName("res-menu-items-container")[0]
+              .classList.remove("hide");
+          }
+        }}
+      >
+        <div className="res-menu-category">
+          <h2>
+            {item.title} ({item.itemList.length})
+          </h2>
+        </div>
+        <div className="res-menu-dropdown"> {">"} </div>
+      </button>
     </div>
   );
 };
@@ -44,21 +63,30 @@ const MenuContainer = (item) => {
               <img src={rupeeicon} />{" "}
               {item.price / 100 || item.defaultPrice / 100}
             </div>
-            <div className="menu-item-ratings res-card-rating-time">
-              <div className="menu-item-rating-start">
-                <img width={30} src={ratingicon} />
+            {item.ratings.aggregatedRating.rating ? (
+              <div className="menu-item-ratings res-card-rating-time">
+                <div className="menu-item-rating-start">
+                  <img width={30} src={ratingicon} />
+                </div>
+                <h5>
+                  {item.ratings.aggregatedRating.ratingCount}(
+                  {item.ratings.aggregatedRating.rating})
+                </h5>
               </div>
-              <h5>
-                if ({item.ratings.aggregatedRating.rating}) {}
-                {item.ratings.aggregatedRating.rating || <h1></h1>} (
-                {item.ratings.aggregatedRating.ratingCount || <h1>NA</h1>})
-              </h5>
-            </div>
+            ) : (
+              <h5>No ratings</h5>
+            )}
             <div className="menu-item-description">{item.description}</div>
           </div>
           <div className="menu-item-img-body">
             <div className="menu-item-img">
-              <img src={CDN_URL + item.imageId} />
+              {item.imageId ? (
+                <img src={CDN_URL + item.imageId} />
+              ) : (
+                <>
+                  <h1 className="no-img"></h1>
+                </>
+              )}
             </div>
             <div className="menu-item-img-addtocart">
               <button>ADD</button>
@@ -72,6 +100,7 @@ const MenuContainer = (item) => {
 };
 const RestaurantMenu = () => {
   const [menuList, setmenuList] = useState([]);
+  const [resName, setresName] = useState("");
   //   const API =
   //     "https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=19.0760&lng=72.8777&restaurantId=23737&catalog_qa=undefined&isMenuUx4=true&submitAction=ENTER";
   const { resId } = useParams();
@@ -80,18 +109,9 @@ const RestaurantMenu = () => {
   const apiData = async () => {
     const fetched = await fetch(API);
     const data = await fetched.json();
-
-    // const reslist =
-    //   data.data.cards[4].groupedCard.cardGroupMap.REGULAR.cards.filter(
-    //     (item) => {
-    //       const currCategory = item.card.card.title;
-    //       if (currCategory) {
-    //         return currCategory;
-    //       }
-    //     }
-    //   );
+    const resName = data.data.cards[0].card.card.text;
+    console.log(resName);
     const reslist = data.data.cards.filter((currarry) => {
-      //   console.log(currarry);
       if (currarry.groupedCard) {
         return currarry;
       }
@@ -110,8 +130,6 @@ const RestaurantMenu = () => {
           return res;
         }
       });
-    console.log(FinalResList);
-    //!task : filter acc to groupedCard present
 
     const itemCards = FinalResList.map((item) => {
       return {
@@ -120,13 +138,20 @@ const RestaurantMenu = () => {
       };
     });
     setmenuList(itemCards);
+    setresName(resName);
   };
 
   useEffect(() => {
     apiData();
   }, []);
-  return (
+
+  return menuList.length === 0 ? (
+    <MenuShimmer />
+  ) : (
     <div className="res-menu-page-body">
+      <div className="res-menu-name">
+        <h1>{resName}</h1>
+      </div>
       {menuList.map((item) => {
         return (
           <div key={item.title}>
@@ -134,7 +159,7 @@ const RestaurantMenu = () => {
               <CategoryContainer key={item} {...item} />
             </div>
 
-            <div className="res-menu-items-container">
+            <div className="res-menu-items-container ">
               {item.itemList.map((currItem) => {
                 return (
                   <MenuContainer
